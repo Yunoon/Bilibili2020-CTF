@@ -44,7 +44,7 @@ F12
 
 先访问页面
 
-![image-20201024232502428](C:\Users\Yunoon\AppData\Roaming\Typora\typora-user-images\image-20201024232502428.png)
+![image-20201024232502428](./image-20201024232502428.png)
 
 直接使用弱密码爆破，单纯靠猜
 
@@ -56,7 +56,7 @@ F12
 
 
 
-![image-20201024232738082](C:\Users\Yunoon\AppData\Roaming\Typora\typora-user-images\image-20201024232738082.png)
+![image-20201024232738082](./image-20201024232738082.png)
 
 更改cookie中role的值为Administrator，并且md5加密
 
@@ -72,4 +72,4 @@ F12
 
 ![8](./8.png)
 
-![image-20201024233318892](C:\Users\Yunoon\AppData\Roaming\Typora\typora-user-images\image-20201024233318892.png)
+![image-20201024233318892](./image-20201024233318892.png)
